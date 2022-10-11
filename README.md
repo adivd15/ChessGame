@@ -1,6 +1,6 @@
 # ChessGame
 
-##Description and rules
+## Description and rules
 This is a lucky chess game, that has a strict set of rules, combining chess and the romanian game barbut.
 The thought behind it is that chess is a game where you can succeed only with skill and practice, which is not true in real life. In real life, you also need some luck.
 
@@ -18,9 +18,9 @@ Whenever you want to make a move, you need to roll the dice and you MUST move on
 If you can't move the piece equivalent to the specific chess piece, you lose the privilege of moving the piece and if you don't have the piece equivalent to the number on the dice, you also can't make any moves.
 The game ends when you take the king.
 
-##Used Technologies
+## Used Technologies
 - C++
 - Vulkan API
 
-##Credits
+## Credits
 Thank you [Petre](https://www.instagram.com/petredumitru1/) for coming up with this idea.
